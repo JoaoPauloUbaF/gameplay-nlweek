@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
   splitter: {
     height: 1,
     width: "77%",
+    marginTop: 2,
     marginVertical: 21,
     alignSelf: "flex-end",
     borderBottomColor: theme.colors.secondary40,
